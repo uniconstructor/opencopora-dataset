@@ -1,5 +1,7 @@
 # opencopora-dataset
 
+Архив с датасетом находится по ссылке: https://drive.google.com/open?id=1d-NZaK-9EUGM9QtfSYZCQ9tM1BlTjUhm
+
 Обучающая выборка текстов opencorpora.org для разбиения текста на предложения
 
 Ссылка на дамп базы данных, на основе которого создана выборка: http://opencorpora.org/?page=downloads
