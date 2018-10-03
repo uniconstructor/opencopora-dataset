@@ -1,0 +1,1548 @@
+<?xml version="1.0" ?>
+<text id="3185" name="Право на жизнь" parent="56">
+	<tags>
+		<tag>url:http://ru.wikinews.org/wiki/Право_на_жизнь</tag>
+		<tag>Тема:ВикиКатегория:Ватикан</tag>
+		<tag>Дата:25/02</tag>
+		<tag>Автор:http://ru.wikinews.org/wiki/Участник:Ygrek</tag>
+		<tag>Тема:ВикиКатегория:Право на жизнь</tag>
+		<tag>Тема:ВикиКатегория:Права человека</tag>
+		<tag>Тема:ВикиКатегория:Католичество</tag>
+		<tag>Тема:ВикиКатегория:Аборт</tag>
+		<tag>Год:2007</tag>
+		<tag>Тема:ВикиКатегория:Религия</tag>
+		<tag>url:http://ru.wikinews.org/w/index.php?title=Право_на_жизнь&amp;oldid=208385</tag>
+	</tags>
+	<paragraphs>
+		<paragraph id="26156">
+			<sentence id="76259">
+				<source>Право на жизнь</source>
+				<tokens>
+					<token id="1370746" text="Право">
+						<tfr rev_id="4464916" t="Право">
+							<v>
+								<l id="265680" t="право">
+									<g v="NOUN"/>
+									<g v="inan"/>
+									<g v="neut"/>
+									<g v="sing"/>
+									<g v="nomn"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370747" text="на">
+						<tfr rev_id="3393436" t="на">
+							<v>
+								<l id="166264" t="на">
+									<g v="PREP"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370748" text="жизнь">
+						<tfr rev_id="3021436" t="жизнь">
+							<v>
+								<l id="97314" t="жизнь">
+									<g v="NOUN"/>
+									<g v="inan"/>
+									<g v="femn"/>
+									<g v="sing"/>
+									<g v="nomn"/>
+								</l>
+							</v>
+							<v>
+								<l id="97314" t="жизнь">
+									<g v="NOUN"/>
+									<g v="inan"/>
+									<g v="femn"/>
+									<g v="sing"/>
+									<g v="accs"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+				</tokens>
+			</sentence>
+		</paragraph>
+		<paragraph id="26157">
+			<sentence id="76260">
+				<source>Римский Папа Бенедикт XVI резко критикует использование генной технология для создания, так называемых, дизайнерских детей.</source>
+				<tokens>
+					<token id="1370749" text="Римский">
+						<tfr rev_id="4176297" t="Римский">
+							<v>
+								<l id="307710" t="римский">
+									<g v="ADJF"/>
+									<g v="masc"/>
+									<g v="sing"/>
+									<g v="nomn"/>
+								</l>
+							</v>
+							<v>
+								<l id="307710" t="римский">
+									<g v="ADJF"/>
+									<g v="inan"/>
+									<g v="masc"/>
+									<g v="sing"/>
+									<g v="accs"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370750" text="Папа">
+						<tfr rev_id="3021438" t="Папа">
+							<v>
+								<l id="223530" t="папа">
+									<g v="NOUN"/>
+									<g v="anim"/>
+									<g v="masc"/>
+									<g v="sing"/>
+									<g v="nomn"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370751" text="Бенедикт">
+						<tfr rev_id="3537081" t="Бенедикт">
+							<v>
+								<l id="27525" t="бенедикт">
+									<g v="NOUN"/>
+									<g v="anim"/>
+									<g v="masc"/>
+									<g v="Name"/>
+									<g v="sing"/>
+									<g v="nomn"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370752" text="XVI">
+						<tfr rev_id="3861634" t="XVI">
+							<v>
+								<l id="0" t="XVI">
+									<g v="ROMN"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370753" text="резко">
+						<tfr rev_id="3667009" t="резко">
+							<v>
+								<l id="305329" t="резко">
+									<g v="ADVB"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370754" text="критикует">
+						<tfr rev_id="3021442" t="критикует">
+							<v>
+								<l id="142966" t="критикую">
+									<g v="VERB"/>
+									<g v="impf"/>
+									<g v="tran"/>
+									<g v="sing"/>
+									<g v="3per"/>
+									<g v="pres"/>
+									<g v="indc"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370755" text="использование">
+						<tfr rev_id="3021443" t="использование">
+							<v>
+								<l id="125417" t="использование">
+									<g v="NOUN"/>
+									<g v="inan"/>
+									<g v="neut"/>
+									<g v="sing"/>
+									<g v="nomn"/>
+								</l>
+							</v>
+							<v>
+								<l id="125417" t="использование">
+									<g v="NOUN"/>
+									<g v="inan"/>
+									<g v="neut"/>
+									<g v="sing"/>
+									<g v="accs"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370756" text="генной">
+						<tfr rev_id="3021444" t="генной">
+							<v>
+								<l id="68630" t="генный">
+									<g v="ADJF"/>
+									<g v="femn"/>
+									<g v="sing"/>
+									<g v="gent"/>
+								</l>
+							</v>
+							<v>
+								<l id="68630" t="генный">
+									<g v="ADJF"/>
+									<g v="femn"/>
+									<g v="sing"/>
+									<g v="datv"/>
+								</l>
+							</v>
+							<v>
+								<l id="68630" t="генный">
+									<g v="ADJF"/>
+									<g v="femn"/>
+									<g v="sing"/>
+									<g v="ablt"/>
+								</l>
+							</v>
+							<v>
+								<l id="68630" t="генный">
+									<g v="ADJF"/>
+									<g v="femn"/>
+									<g v="sing"/>
+									<g v="loct"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370757" text="технология">
+						<tfr rev_id="3021445" t="технология">
+							<v>
+								<l id="345970" t="технология">
+									<g v="NOUN"/>
+									<g v="inan"/>
+									<g v="femn"/>
+									<g v="sing"/>
+									<g v="nomn"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370758" text="для">
+						<tfr rev_id="3484026" t="для">
+							<v>
+								<l id="85032" t="для">
+									<g v="PREP"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370759" text="создания">
+						<tfr rev_id="3815985" t="создания">
+							<v>
+								<l id="328580" t="создание">
+									<g v="NOUN"/>
+									<g v="ANim"/>
+									<g v="neut"/>
+									<g v="sing"/>
+									<g v="gent"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370760" text=",">
+						<tfr rev_id="3021448" t=",">
+							<v>
+								<l id="0" t=",">
+									<g v="PNCT"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370761" text="так">
+						<tfr rev_id="3021449" t="так">
+							<v>
+								<l id="342451" t="так">
+									<g v="CONJ"/>
+								</l>
+							</v>
+							<v>
+								<l id="342452" t="так">
+									<g v="PRCL"/>
+								</l>
+							</v>
+							<v>
+								<l id="342453" t="так">
+									<g v="ADVB"/>
+									<g v="Dmns"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370762" text="называемых">
+						<tfr rev_id="3660361" t="называемых">
+							<v>
+								<l id="170477" t="называемый">
+									<g v="PRTF"/>
+									<g v="impf"/>
+									<g v="tran"/>
+									<g v="pres"/>
+									<g v="pssv"/>
+									<g v="plur"/>
+									<g v="gent"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370763" text=",">
+						<tfr rev_id="3021451" t=",">
+							<v>
+								<l id="0" t=",">
+									<g v="PNCT"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370764" text="дизайнерских">
+						<tfr rev_id="3021452" t="дизайнерских">
+							<v>
+								<l id="83715" t="дизайнерский">
+									<g v="ADJF"/>
+									<g v="plur"/>
+									<g v="gent"/>
+								</l>
+							</v>
+							<v>
+								<l id="83715" t="дизайнерский">
+									<g v="ADJF"/>
+									<g v="anim"/>
+									<g v="plur"/>
+									<g v="accs"/>
+								</l>
+							</v>
+							<v>
+								<l id="83715" t="дизайнерский">
+									<g v="ADJF"/>
+									<g v="plur"/>
+									<g v="loct"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370765" text="детей">
+						<tfr rev_id="4384904" t="детей">
+							<v>
+								<l id="304488" t="ребёнок">
+									<g v="NOUN"/>
+									<g v="anim"/>
+									<g v="masc"/>
+									<g v="plur"/>
+									<g v="gent"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370766" text=".">
+						<tfr rev_id="3021454" t=".">
+							<v>
+								<l id="0" t=".">
+									<g v="PNCT"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+				</tokens>
+			</sentence>
+			<sentence id="76261">
+				<source>В своей речи перед экспертами теологами, Бенедикт XVI назвал неприемлемыми исследования в попытках создания «превосходных детей».</source>
+				<tokens>
+					<token id="1370767" text="В">
+						<tfr rev_id="3021455" t="В">
+							<v>
+								<l id="37409" t="в">
+									<g v="PREP"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370768" text="своей">
+						<tfr rev_id="4298641" t="своей">
+							<v>
+								<l id="316379" t="свой">
+									<g v="ADJF"/>
+									<g v="Apro"/>
+									<g v="Anph"/>
+									<g v="femn"/>
+									<g v="sing"/>
+									<g v="loct"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370769" text="речи">
+						<tfr rev_id="4380118" t="речи">
+							<v>
+								<l id="307325" t="речь">
+									<g v="NOUN"/>
+									<g v="inan"/>
+									<g v="femn"/>
+									<g v="sing"/>
+									<g v="loct"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370770" text="перед">
+						<tfr rev_id="3302225" t="перед">
+							<v>
+								<l id="228071" t="перед">
+									<g v="PREP"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370771" text="экспертами">
+						<tfr rev_id="3021459" t="экспертами">
+							<v>
+								<l id="383582" t="эксперт">
+									<g v="NOUN"/>
+									<g v="anim"/>
+									<g v="masc"/>
+									<g v="plur"/>
+									<g v="ablt"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370772" text="теологами">
+						<tfr rev_id="3021460" t="теологами">
+							<v>
+								<l id="344818" t="теолог">
+									<g v="NOUN"/>
+									<g v="anim"/>
+									<g v="masc"/>
+									<g v="plur"/>
+									<g v="ablt"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370773" text=",">
+						<tfr rev_id="3021461" t=",">
+							<v>
+								<l id="0" t=",">
+									<g v="PNCT"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370774" text="Бенедикт">
+						<tfr rev_id="3444821" t="Бенедикт">
+							<v>
+								<l id="27525" t="бенедикт">
+									<g v="NOUN"/>
+									<g v="anim"/>
+									<g v="masc"/>
+									<g v="Name"/>
+									<g v="sing"/>
+									<g v="nomn"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370775" text="XVI">
+						<tfr rev_id="3879708" t="XVI">
+							<v>
+								<l id="0" t="XVI">
+									<g v="ROMN"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370776" text="назвал">
+						<tfr rev_id="3021464" t="назвал">
+							<v>
+								<l id="170342" t="назвал">
+									<g v="VERB"/>
+									<g v="perf"/>
+									<g v="tran"/>
+									<g v="masc"/>
+									<g v="sing"/>
+									<g v="past"/>
+									<g v="indc"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370777" text="неприемлемыми">
+						<tfr rev_id="3021465" t="неприемлемыми">
+							<v>
+								<l id="186597" t="неприемлемый">
+									<g v="ADJF"/>
+									<g v="Qual"/>
+									<g v="plur"/>
+									<g v="ablt"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370778" text="исследования">
+						<tfr rev_id="3822007" t="исследования">
+							<v>
+								<l id="125799" t="исследование">
+									<g v="NOUN"/>
+									<g v="inan"/>
+									<g v="neut"/>
+									<g v="plur"/>
+									<g v="accs"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370779" text="в">
+						<tfr rev_id="3021467" t="в">
+							<v>
+								<l id="37409" t="в">
+									<g v="PREP"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370780" text="попытках">
+						<tfr rev_id="3021468" t="попытках">
+							<v>
+								<l id="259844" t="попытка">
+									<g v="NOUN"/>
+									<g v="inan"/>
+									<g v="femn"/>
+									<g v="plur"/>
+									<g v="loct"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370781" text="создания">
+						<tfr rev_id="4168757" t="создания">
+							<v>
+								<l id="328580" t="создание">
+									<g v="NOUN"/>
+									<g v="ANim"/>
+									<g v="neut"/>
+									<g v="sing"/>
+									<g v="gent"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370782" text="«">
+						<tfr rev_id="3021470" t="«">
+							<v>
+								<l id="0" t="«">
+									<g v="PNCT"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370783" text="превосходных">
+						<tfr rev_id="4347429" t="превосходных">
+							<v>
+								<l id="266110" t="превосходный">
+									<g v="ADJF"/>
+									<g v="Qual"/>
+									<g v="plur"/>
+									<g v="gent"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370784" text="детей">
+						<tfr rev_id="4386513" t="детей">
+							<v>
+								<l id="304488" t="ребёнок">
+									<g v="NOUN"/>
+									<g v="anim"/>
+									<g v="masc"/>
+									<g v="plur"/>
+									<g v="gent"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370785" text="»">
+						<tfr rev_id="3021473" t="»">
+							<v>
+								<l id="0" t="»">
+									<g v="PNCT"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370786" text=".">
+						<tfr rev_id="3021474" t=".">
+							<v>
+								<l id="0" t=".">
+									<g v="PNCT"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+				</tokens>
+			</sentence>
+			<sentence id="76262">
+				<source>В развивающихся странах растет интерес к биотехнологическим исследованиям в этом направлении.</source>
+				<tokens>
+					<token id="1370787" text="В">
+						<tfr rev_id="3021475" t="В">
+							<v>
+								<l id="37409" t="в">
+									<g v="PREP"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370788" text="развивающихся">
+						<tfr rev_id="3021476" t="развивающихся">
+							<v>
+								<l id="292488" t="развивающийся">
+									<g v="PRTF"/>
+									<g v="impf"/>
+									<g v="intr"/>
+									<g v="pres"/>
+									<g v="actv"/>
+									<g v="plur"/>
+									<g v="gent"/>
+								</l>
+							</v>
+							<v>
+								<l id="292488" t="развивающийся">
+									<g v="PRTF"/>
+									<g v="impf"/>
+									<g v="intr"/>
+									<g v="pres"/>
+									<g v="actv"/>
+									<g v="anim"/>
+									<g v="plur"/>
+									<g v="accs"/>
+								</l>
+							</v>
+							<v>
+								<l id="292488" t="развивающийся">
+									<g v="PRTF"/>
+									<g v="impf"/>
+									<g v="intr"/>
+									<g v="pres"/>
+									<g v="actv"/>
+									<g v="plur"/>
+									<g v="loct"/>
+								</l>
+							</v>
+							<v>
+								<l id="292491" t="развивающийся">
+									<g v="ADJF"/>
+									<g v="plur"/>
+									<g v="gent"/>
+								</l>
+							</v>
+							<v>
+								<l id="292491" t="развивающийся">
+									<g v="ADJF"/>
+									<g v="anim"/>
+									<g v="plur"/>
+									<g v="accs"/>
+								</l>
+							</v>
+							<v>
+								<l id="292491" t="развивающийся">
+									<g v="ADJF"/>
+									<g v="plur"/>
+									<g v="loct"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370789" text="странах">
+						<tfr rev_id="3021477" t="странах">
+							<v>
+								<l id="337100" t="страна">
+									<g v="NOUN"/>
+									<g v="inan"/>
+									<g v="femn"/>
+									<g v="plur"/>
+									<g v="loct"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370790" text="растет">
+						<tfr rev_id="3021478" t="растет">
+							<v>
+								<l id="302041" t="расту">
+									<g v="VERB"/>
+									<g v="impf"/>
+									<g v="intr"/>
+									<g v="sing"/>
+									<g v="3per"/>
+									<g v="pres"/>
+									<g v="indc"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370791" text="интерес">
+						<tfr rev_id="3021479" t="интерес">
+							<v>
+								<l id="123163" t="интерес">
+									<g v="NOUN"/>
+									<g v="inan"/>
+									<g v="masc"/>
+									<g v="sing"/>
+									<g v="nomn"/>
+								</l>
+							</v>
+							<v>
+								<l id="123163" t="интерес">
+									<g v="NOUN"/>
+									<g v="inan"/>
+									<g v="masc"/>
+									<g v="sing"/>
+									<g v="accs"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370792" text="к">
+						<tfr rev_id="3021480" t="к">
+							<v>
+								<l id="127460" t="к">
+									<g v="PREP"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370793" text="биотехнологическим">
+						<tfr rev_id="3680459" t="биотехнологическим">
+							<v>
+								<l id="29882" t="биотехнологический">
+									<g v="ADJF"/>
+									<g v="plur"/>
+									<g v="datv"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370794" text="исследованиям">
+						<tfr rev_id="3021482" t="исследованиям">
+							<v>
+								<l id="125799" t="исследование">
+									<g v="NOUN"/>
+									<g v="inan"/>
+									<g v="neut"/>
+									<g v="plur"/>
+									<g v="datv"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370795" text="в">
+						<tfr rev_id="3021483" t="в">
+							<v>
+								<l id="37409" t="в">
+									<g v="PREP"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370796" text="этом">
+						<tfr rev_id="4436330" t="этом">
+							<v>
+								<l id="386581" t="этот">
+									<g v="ADJF"/>
+									<g v="Subx"/>
+									<g v="Apro"/>
+									<g v="Anph"/>
+									<g v="neut"/>
+									<g v="sing"/>
+									<g v="loct"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370797" text="направлении">
+						<tfr rev_id="3021485" t="направлении">
+							<v>
+								<l id="173963" t="направление">
+									<g v="NOUN"/>
+									<g v="inan"/>
+									<g v="neut"/>
+									<g v="sing"/>
+									<g v="loct"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370798" text=".">
+						<tfr rev_id="3021486" t=".">
+							<v>
+								<l id="0" t=".">
+									<g v="PNCT"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+				</tokens>
+			</sentence>
+			<sentence id="76263">
+				<source>Одновременно он критиковал практику искусственного оплодотворения, а также тесты, которые помогают распознать наследственные болезни в эмбрионах.</source>
+				<tokens>
+					<token id="1370799" text="Одновременно">
+						<tfr rev_id="3021487" t="Одновременно">
+							<v>
+								<l id="203393" t="одновременно">
+									<g v="ADVB"/>
+								</l>
+							</v>
+							<v>
+								<l id="203396" t="одновременен">
+									<g v="ADJS"/>
+									<g v="Qual"/>
+									<g v="neut"/>
+									<g v="sing"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370800" text="он">
+						<tfr rev_id="3577536" t="он">
+							<v>
+								<l id="206541" t="он">
+									<g v="NPRO"/>
+									<g v="masc"/>
+									<g v="3per"/>
+									<g v="Anph"/>
+									<g v="sing"/>
+									<g v="nomn"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370801" text="критиковал">
+						<tfr rev_id="3021489" t="критиковал">
+							<v>
+								<l id="142966" t="критикую">
+									<g v="VERB"/>
+									<g v="impf"/>
+									<g v="tran"/>
+									<g v="masc"/>
+									<g v="sing"/>
+									<g v="past"/>
+									<g v="indc"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370802" text="практику">
+						<tfr rev_id="4218616" t="практику">
+							<v>
+								<l id="265884" t="практика">
+									<g v="NOUN"/>
+									<g v="inan"/>
+									<g v="femn"/>
+									<g v="sing"/>
+									<g v="accs"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370803" text="искусственного">
+						<tfr rev_id="4381770" t="искусственного">
+							<v>
+								<l id="124882" t="искусственный">
+									<g v="ADJF"/>
+									<g v="Qual"/>
+									<g v="neut"/>
+									<g v="sing"/>
+									<g v="gent"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370804" text="оплодотворения">
+						<tfr rev_id="3881145" t="оплодотворения">
+							<v>
+								<l id="207331" t="оплодотворение">
+									<g v="NOUN"/>
+									<g v="inan"/>
+									<g v="neut"/>
+									<g v="sing"/>
+									<g v="gent"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370805" text=",">
+						<tfr rev_id="3021493" t=",">
+							<v>
+								<l id="0" t=",">
+									<g v="PNCT"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370806" text="а">
+						<tfr rev_id="3021494" t="а">
+							<v>
+								<l id="51" t="а">
+									<g v="CONJ"/>
+								</l>
+							</v>
+							<v>
+								<l id="52" t="а">
+									<g v="INTJ"/>
+								</l>
+							</v>
+							<v>
+								<l id="53" t="а">
+									<g v="PRCL"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370807" text="также">
+						<tfr rev_id="4268942" t="также">
+							<v>
+								<l id="342482" t="также">
+									<g v="PRCL"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370808" text="тесты">
+						<tfr rev_id="3764351" t="тесты">
+							<v>
+								<l id="345755" t="тест">
+									<g v="NOUN"/>
+									<g v="inan"/>
+									<g v="masc"/>
+									<g v="plur"/>
+									<g v="accs"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370809" text=",">
+						<tfr rev_id="3021497" t=",">
+							<v>
+								<l id="0" t=",">
+									<g v="PNCT"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370810" text="которые">
+						<tfr rev_id="3643201" t="которые">
+							<v>
+								<l id="141203" t="который">
+									<g v="ADJF"/>
+									<g v="Apro"/>
+									<g v="Subx"/>
+									<g v="Anph"/>
+									<g v="plur"/>
+									<g v="nomn"/>
+								</l>
+							</v>
+							<v>
+								<l id="141203" t="который">
+									<g v="ADJF"/>
+									<g v="Apro"/>
+									<g v="Subx"/>
+									<g v="Anph"/>
+									<g v="inan"/>
+									<g v="plur"/>
+									<g v="accs"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370811" text="помогают">
+						<tfr rev_id="3021499" t="помогают">
+							<v>
+								<l id="257806" t="помогаю">
+									<g v="VERB"/>
+									<g v="impf"/>
+									<g v="intr"/>
+									<g v="plur"/>
+									<g v="3per"/>
+									<g v="pres"/>
+									<g v="indc"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370812" text="распознать">
+						<tfr rev_id="3021500" t="распознать">
+							<v>
+								<l id="300053" t="распознать">
+									<g v="INFN"/>
+									<g v="perf"/>
+									<g v="tran"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370813" text="наследственные">
+						<tfr rev_id="3021501" t="наследственные">
+							<v>
+								<l id="175566" t="наследственный">
+									<g v="ADJF"/>
+									<g v="plur"/>
+									<g v="nomn"/>
+								</l>
+							</v>
+							<v>
+								<l id="175566" t="наследственный">
+									<g v="ADJF"/>
+									<g v="inan"/>
+									<g v="plur"/>
+									<g v="accs"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370814" text="болезни">
+						<tfr rev_id="3726610" t="болезни">
+							<v>
+								<l id="32085" t="болезнь">
+									<g v="NOUN"/>
+									<g v="inan"/>
+									<g v="femn"/>
+									<g v="plur"/>
+									<g v="accs"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370815" text="в">
+						<tfr rev_id="3021503" t="в">
+							<v>
+								<l id="37409" t="в">
+									<g v="PREP"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370816" text="эмбрионах">
+						<tfr rev_id="3021504" t="эмбрионах">
+							<v>
+								<l id="385168" t="эмбрион">
+									<g v="NOUN"/>
+									<g v="anim"/>
+									<g v="masc"/>
+									<g v="Inmx"/>
+									<g v="plur"/>
+									<g v="loct"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370817" text=".">
+						<tfr rev_id="3021505" t=".">
+							<v>
+								<l id="0" t=".">
+									<g v="PNCT"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+				</tokens>
+			</sentence>
+		</paragraph>
+		<paragraph id="26158">
+			<sentence id="76264">
+				<source>Право на жизни находится под угрозой во всем мире, говорит Папа.</source>
+				<tokens>
+					<token id="1370818" text="Право">
+						<tfr rev_id="4464950" t="Право">
+							<v>
+								<l id="265680" t="право">
+									<g v="NOUN"/>
+									<g v="inan"/>
+									<g v="neut"/>
+									<g v="sing"/>
+									<g v="nomn"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370819" text="на">
+						<tfr rev_id="3392490" t="на">
+							<v>
+								<l id="166264" t="на">
+									<g v="PREP"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370820" text="жизни">
+						<tfr rev_id="3822008" t="жизни">
+							<v>
+								<l id="97314" t="жизнь">
+									<g v="NOUN"/>
+									<g v="inan"/>
+									<g v="femn"/>
+									<g v="plur"/>
+									<g v="accs"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370821" text="находится">
+						<tfr rev_id="3021509" t="находится">
+							<v>
+								<l id="177898" t="нахожусь">
+									<g v="VERB"/>
+									<g v="impf"/>
+									<g v="intr"/>
+									<g v="sing"/>
+									<g v="3per"/>
+									<g v="pres"/>
+									<g v="indc"/>
+								</l>
+							</v>
+							<v>
+								<l id="177903" t="находился">
+									<g v="VERB"/>
+									<g v="perf"/>
+									<g v="intr"/>
+									<g v="sing"/>
+									<g v="3per"/>
+									<g v="futr"/>
+									<g v="indc"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370822" text="под">
+						<tfr rev_id="3283886" t="под">
+							<v>
+								<l id="243755" t="под">
+									<g v="PREP"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370823" text="угрозой">
+						<tfr rev_id="3021511" t="угрозой">
+							<v>
+								<l id="354549" t="угроза">
+									<g v="NOUN"/>
+									<g v="inan"/>
+									<g v="femn"/>
+									<g v="sing"/>
+									<g v="ablt"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370824" text="во">
+						<tfr rev_id="3021512" t="во">
+							<v>
+								<l id="37409" t="в">
+									<g v="PREP"/>
+									<g v="Vpre"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370825" text="всем">
+						<tfr rev_id="4454293" t="всем">
+							<v>
+								<l id="42156" t="весь">
+									<g v="ADJF"/>
+									<g v="Subx"/>
+									<g v="Apro"/>
+									<g v="masc"/>
+									<g v="sing"/>
+									<g v="loct"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370826" text="мире">
+						<tfr rev_id="3714979" t="мире">
+							<v>
+								<l id="160807" t="мир">
+									<g v="NOUN"/>
+									<g v="inan"/>
+									<g v="masc"/>
+									<g v="sing"/>
+									<g v="loc1"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370827" text=",">
+						<tfr rev_id="3021515" t=",">
+							<v>
+								<l id="0" t=",">
+									<g v="PNCT"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370828" text="говорит">
+						<tfr rev_id="3021516" t="говорит">
+							<v>
+								<l id="72053" t="говорю">
+									<g v="VERB"/>
+									<g v="impf"/>
+									<g v="tran"/>
+									<g v="sing"/>
+									<g v="3per"/>
+									<g v="pres"/>
+									<g v="indc"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370829" text="Папа">
+						<tfr rev_id="3021517" t="Папа">
+							<v>
+								<l id="223530" t="папа">
+									<g v="NOUN"/>
+									<g v="anim"/>
+									<g v="masc"/>
+									<g v="sing"/>
+									<g v="nomn"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370830" text=".">
+						<tfr rev_id="3021518" t=".">
+							<v>
+								<l id="0" t=".">
+									<g v="PNCT"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+				</tokens>
+			</sentence>
+			<sentence id="76265">
+				<source>Как о примерах такой угрозы он говорил о стремлении к легализации абортов в Латинской Америке и помощи в смерти в богатых странах.</source>
+				<tokens>
+					<token id="1370831" text="Как">
+						<tfr rev_id="3021519" t="Как">
+							<v>
+								<l id="128190" t="как">
+									<g v="CONJ"/>
+								</l>
+							</v>
+							<v>
+								<l id="128191" t="как">
+									<g v="PRCL"/>
+								</l>
+							</v>
+							<v>
+								<l id="128192" t="как">
+									<g v="ADVB"/>
+									<g v="Ques"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370832" text="о">
+						<tfr rev_id="3392137" t="о">
+							<v>
+								<l id="192977" t="о">
+									<g v="PREP"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370833" text="примерах">
+						<tfr rev_id="3021521" t="примерах">
+							<v>
+								<l id="271975" t="пример">
+									<g v="NOUN"/>
+									<g v="inan"/>
+									<g v="masc"/>
+									<g v="plur"/>
+									<g v="loct"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370834" text="такой">
+						<tfr rev_id="4380578" t="такой">
+							<v>
+								<l id="342491" t="такой">
+									<g v="ADJF"/>
+									<g v="Apro"/>
+									<g v="femn"/>
+									<g v="sing"/>
+									<g v="gent"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370835" text="угрозы">
+						<tfr rev_id="3718089" t="угрозы">
+							<v>
+								<l id="354549" t="угроза">
+									<g v="NOUN"/>
+									<g v="inan"/>
+									<g v="femn"/>
+									<g v="sing"/>
+									<g v="gent"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370836" text="он">
+						<tfr rev_id="3577537" t="он">
+							<v>
+								<l id="206541" t="он">
+									<g v="NPRO"/>
+									<g v="masc"/>
+									<g v="3per"/>
+									<g v="Anph"/>
+									<g v="sing"/>
+									<g v="nomn"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370837" text="говорил">
+						<tfr rev_id="3021525" t="говорил">
+							<v>
+								<l id="72053" t="говорю">
+									<g v="VERB"/>
+									<g v="impf"/>
+									<g v="tran"/>
+									<g v="masc"/>
+									<g v="sing"/>
+									<g v="past"/>
+									<g v="indc"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370838" text="о">
+						<tfr rev_id="3396992" t="о">
+							<v>
+								<l id="192977" t="о">
+									<g v="PREP"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370839" text="стремлении">
+						<tfr rev_id="3021527" t="стремлении">
+							<v>
+								<l id="337465" t="стремление">
+									<g v="NOUN"/>
+									<g v="inan"/>
+									<g v="neut"/>
+									<g v="sing"/>
+									<g v="loct"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370840" text="к">
+						<tfr rev_id="3021528" t="к">
+							<v>
+								<l id="127460" t="к">
+									<g v="PREP"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370841" text="легализации">
+						<tfr rev_id="4384513" t="легализации">
+							<v>
+								<l id="147439" t="легализация">
+									<g v="NOUN"/>
+									<g v="inan"/>
+									<g v="femn"/>
+									<g v="sing"/>
+									<g v="datv"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370842" text="абортов">
+						<tfr rev_id="3021530" t="абортов">
+							<v>
+								<l id="1635" t="аборт">
+									<g v="NOUN"/>
+									<g v="inan"/>
+									<g v="masc"/>
+									<g v="plur"/>
+									<g v="gent"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370843" text="в">
+						<tfr rev_id="3021531" t="в">
+							<v>
+								<l id="37409" t="в">
+									<g v="PREP"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370844" text="Латинской">
+						<tfr rev_id="4423100" t="Латинской">
+							<v>
+								<l id="147116" t="латинский">
+									<g v="ADJF"/>
+									<g v="femn"/>
+									<g v="sing"/>
+									<g v="loct"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370845" text="Америке">
+						<tfr rev_id="3667133" t="Америке">
+							<v>
+								<l id="11393" t="америка">
+									<g v="NOUN"/>
+									<g v="inan"/>
+									<g v="femn"/>
+									<g v="Sgtm"/>
+									<g v="Geox"/>
+									<g v="sing"/>
+									<g v="loct"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370846" text="и">
+						<tfr rev_id="3021534" t="и">
+							<v>
+								<l id="116949" t="и">
+									<g v="CONJ"/>
+								</l>
+							</v>
+							<v>
+								<l id="116950" t="и">
+									<g v="INTJ"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370847" text="помощи">
+						<tfr rev_id="3440719" t="помощи">
+							<v>
+								<l id="257960" t="помощь">
+									<g v="NOUN"/>
+									<g v="inan"/>
+									<g v="femn"/>
+									<g v="sing"/>
+									<g v="gent"/>
+								</l>
+							</v>
+							<v>
+								<l id="257960" t="помощь">
+									<g v="NOUN"/>
+									<g v="inan"/>
+									<g v="femn"/>
+									<g v="sing"/>
+									<g v="datv"/>
+								</l>
+							</v>
+							<v>
+								<l id="257960" t="помощь">
+									<g v="NOUN"/>
+									<g v="inan"/>
+									<g v="femn"/>
+									<g v="sing"/>
+									<g v="loct"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370848" text="в">
+						<tfr rev_id="3021536" t="в">
+							<v>
+								<l id="37409" t="в">
+									<g v="PREP"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370849" text="смерти">
+						<tfr rev_id="4288084" t="смерти">
+							<v>
+								<l id="326158" t="смерть">
+									<g v="NOUN"/>
+									<g v="inan"/>
+									<g v="femn"/>
+									<g v="sing"/>
+									<g v="loct"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370850" text="в">
+						<tfr rev_id="3021538" t="в">
+							<v>
+								<l id="37409" t="в">
+									<g v="PREP"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370851" text="богатых">
+						<tfr rev_id="3429751" t="богатых">
+							<v>
+								<l id="31403" t="богатый">
+									<g v="ADJF"/>
+									<g v="Qual"/>
+									<g v="plur"/>
+									<g v="gent"/>
+								</l>
+							</v>
+							<v>
+								<l id="31403" t="богатый">
+									<g v="ADJF"/>
+									<g v="Qual"/>
+									<g v="anim"/>
+									<g v="plur"/>
+									<g v="accs"/>
+								</l>
+							</v>
+							<v>
+								<l id="31403" t="богатый">
+									<g v="ADJF"/>
+									<g v="Qual"/>
+									<g v="plur"/>
+									<g v="loct"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370852" text="странах">
+						<tfr rev_id="3021540" t="странах">
+							<v>
+								<l id="337100" t="страна">
+									<g v="NOUN"/>
+									<g v="inan"/>
+									<g v="femn"/>
+									<g v="plur"/>
+									<g v="loct"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+					<token id="1370853" text=".">
+						<tfr rev_id="3021541" t=".">
+							<v>
+								<l id="0" t=".">
+									<g v="PNCT"/>
+								</l>
+							</v>
+						</tfr>
+					</token>
+				</tokens>
+			</sentence>
+		</paragraph>
+	</paragraphs>
+</text>
